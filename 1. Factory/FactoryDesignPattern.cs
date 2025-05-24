@@ -1,4 +1,6 @@
-namespace DesignPatterns.Factory;
+using DesignPatterns.Factory;
+
+namespace DesignPatterns._1._Factory;
 
 public static class FactoryDesignPattern
 {

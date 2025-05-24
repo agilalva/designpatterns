@@ -1,6 +1,6 @@
 namespace DesignPatterns._2._Factory_method;
 
-public class FactoryMethodDesignPattern
+public static class FactoryMethodDesignPattern
 {
     public static void Run()
     {
